@@ -1,0 +1,2 @@
+bundles:
+    - { name: IvS\Bundle\InfileImportBundle\IvSInfileImportBundle, priority: 200 }
