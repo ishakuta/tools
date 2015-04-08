@@ -4,5 +4,17 @@
         "sha1": "bc7c5caf237db378e81d52122140b9b33a4e16c8",
         "url": "http://ishakuta.github.io/tools/itool/downloads/itool-0.1.0.phar",
         "version": "0.1.0"
-    }
+    },
+    {
+        "name": "itool.phar",
+        "sha1": "e85685ae68ed49d551ed62509572227e8c253384",
+        "url": "http://ishakuta.github.io/tools/itool/downloads/itool-0.1.1.phar",
+        "version": "0.1.1"
+    },
+    {
+        "name": "itool.phar",
+        "sha1": "407584c2881ef04578d3dc64b6d22776587276ba",
+        "url": "http://ishakuta.github.io/tools/itool/downloads/itool-0.1.2.phar",
+        "version": "0.1.2"
+    }    
 ]
